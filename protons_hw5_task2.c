@@ -3,7 +3,7 @@
  *
  *       Filename:  protons_hw5_task2.c
  *       	Usage:  ./protons_hw5_task2.c
- *    Description:  
+ *    Description:  Make Miles Km Table
  *
  *        Version:  1.0
  *        Created:  02/14/2017 04:37:43 PM
