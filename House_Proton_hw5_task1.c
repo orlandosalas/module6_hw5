@@ -15,22 +15,12 @@
 #define PI 3.14159265
 
 /* Function Prototypes */
-void AnnulusMoment(void);
+float AnnulusMoment(float i, float j);
 
 /* Main Program */
 int main(void)
 {
-	AnnulusMoment();
-
-	return 0;
-}
-
-
-/* Function Defenitions */
-void AnnulusMoment(void)
-{
-	float r1, r2;
-	float I;
+	float r2, r1, I;
 	int i;
 
 	do
@@ -40,7 +30,7 @@ void AnnulusMoment(void)
 		printf("Enter the innder radius: ");
 		scanf("%f", &r1);
 
-		I = ((PI / 4)) * ((r2 * r2 * r2 * r2)-(r1 * r1 * r1 * r1));
+		I = AnnulusMoment(r2,r1);
 
 		if(r1 <= 0 || r2 <=0)
 		{
@@ -65,6 +55,17 @@ void AnnulusMoment(void)
 	}
 	while(i != 0);
 
-	return;
+	return 0;
+}
+
+
+/* Function Defenitions */
+float AnnulusMoment(float i, float j)
+{
+	float I;
+
+	I = ((PI / 4)) * ((i * i * i * i)-(j * j * j * j));
+
+	return I;
 }
 
