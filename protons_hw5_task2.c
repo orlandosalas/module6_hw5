@@ -40,7 +40,7 @@ int main(void)
 											//loop icraments by desired incrament 
 	{
 		k2 = MitoKi(inmi); // calls function that expects a data return w/ float
-		printf("%3d   %8.2f\n", inmi, k2);
+		printf("%3d       %-.2f\n", inmi, k2);
 		inmi = inmi + incra;
 	}
 	return 0;
