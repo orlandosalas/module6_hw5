@@ -1,0 +1,65 @@
+commit 7b006b06400f1f20a708295c3e5797d04cd01eb1
+Author: Tyler Madsen <tylermadsen@mail.weber.edu>
+Date:   Tue Feb 21 04:14:38 2017 +0000
+
+    Renamed file
+
+commit 99b33611cf2802dc229ef1b195f2d5d858bc9a2a
+Author: Tyler Madsen <tylermadsen@mail.weber.edu>
+Date:   Tue Feb 21 04:14:03 2017 +0000
+
+    fixed .gitignore
+
+commit b335af6f9fc88957183309777a3594cbeff7ba22
+Author: Orlando Salas <orlandosalas@mail.weber.edu>
+Date:   Sun Feb 19 01:10:34 2017 +0000
+
+    left justified to align
+
+commit f849d7b666b588904aa5bff8f8e27395f98718f3
+Author: Orlando Salas <orlandosalas@mail.weber.edu>
+Date:   Sun Feb 19 00:40:45 2017 +0000
+
+    finshed task2, might need alignment
+
+commit 706a6b2ad286ce02a05d7ce388afd430e2fdbeae
+Author: Tyler Madsen <tylermadsen@mail.weber.edu>
+Date:   Thu Feb 16 16:42:40 2017 +0000
+
+    final (hopefully) edit!
+
+commit 267e5a9c11c3a5fd4465361d6785cff16d9f6a60
+Author: Tyler Madsen <tylermadsen@mail.weber.edu>
+Date:   Tue Feb 14 19:49:25 2017 +0000
+
+    This should be done now.
+
+commit 4cb0f4ee91cdfa525bb1dfe567db524d94897557
+Author: Tyler Madsen <tylermadsen@mail.weber.edu>
+Date:   Tue Feb 14 17:06:46 2017 +0000
+
+    added git ignore
+
+commit 3d65fc1c70c20260199940716cc7ff378cd7aaff
+Author: Tyler Madsen <madsentyler@mail.weber.edu>
+Date:   Tue Feb 14 16:55:50 2017 +0000
+
+    added comment
+
+commit 81f3a9dca4e0c2c951623e4237a4d1b9ce82e085
+Author: Tyler Madsen <madsentyler@mail.weber.edu>
+Date:   Tue Feb 14 16:51:21 2017 +0000
+
+    initial
+
+commit e091f2e34622b69831ae42301e55bdb188493334
+Author: Orlando Salas <orlandosalas@mail.weber.edu>
+Date:   Tue Feb 14 16:39:14 2017 +0000
+
+    Initial commit for task2
+
+commit 6ddc0e1a9200868b20a499d4384e58353a183dcf
+Author: orlandosalas <orlandosalas@mail.weber.edu>
+Date:   Tue Feb 14 09:29:46 2017 -0700
+
+    Initial commit
